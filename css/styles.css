@@ -1,0 +1,61 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Sections */
+
+.main-page {
+
+}
+
+.about-me {
+
+}
+
+.my-education {
+
+}
+
+.my-skills {
+
+}
+
+.contact-me {
+
+}
+
+.resume {
+
+}
+
+.bottom-page {
+    text-align: center;
+    background-color: #394867;
+}
+/* Components */
+.boy {
+    height: 200px;
+    width: 200px;
+}
+
+.udemy {
+    height: 20%;
+    width: 20%;
+}
+
+.upc {
+    height: 20%;
+    width: 20%;
+}
+.coursera {
+    height: 20%;
+    width: 20%;
+}
+
+.icon {
+    color: #394867;
+}
+
+.icon-bottom {
+    color: white;
+}

@@ -27,7 +27,7 @@ All the sections to design on the figma schema ✏️
 
 ### Applying the style to the main page
 
-* [ ] Link Bootstrap
+* [x] Link Bootstrap
 * [x] Link Fonts
 * [ ] Add color Palette
 * [ ] Landing Page
@@ -41,4 +41,5 @@ All the sections to design on the figma schema ✏️
 ### Resume document
 
 * [ ] Write the resume document
-* [ ] Crop BCN picture
+* [x] Crop BCN picture
+* [ ] Align Wave 1

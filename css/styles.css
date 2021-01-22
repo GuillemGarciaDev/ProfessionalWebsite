@@ -7,9 +7,10 @@ a {
     color:  #394867;
 }
 
+h2 {
+    font-weight: 700;
+}
 /* Sections */
-
-
 
 .bottom-page {
     text-align: center;
@@ -72,6 +73,15 @@ a {
     line-height: 4.5rem;
 }
 
+.about-me {
+    padding: 4rem 0;
+    line-height: 1.75rem;
+}
+
+#aboutme-title {
+    padding-bottom: 20px;
+    font-size: 2.5rem;
+}
 /* .ilustr {
     padding-right: 100px;
 } */
@@ -81,6 +91,10 @@ a {
     padding-right: 70px;
     font-weight: 400;
     font-size: 1.25rem;
+}
+
+#bcn-img {
+    padding-top: 1.75rem;
 }
 
 

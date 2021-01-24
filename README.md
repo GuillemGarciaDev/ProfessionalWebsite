@@ -25,21 +25,24 @@ All the sections to design on the figma schema ✏️
 * [x] Social Media Links + Bottom Page
 * [x] Add Favicon 
 
-### Applying the style to the main page
+### Applying the style to the main page (RAW)
 
 * [x] Link Bootstrap
 * [x] Link Fonts
 * [ ] Add color Palette
-* [ ] Landing Page
-* [ ] Navigation Bar
+* [x] Landing Page
+* [x] Navigation Bar
 * [ ] about Me
 * [ ] My education section
 * [ ] My Skills
 * [ ] Contact Me + Get My Resume
 * [ ] Social Media Links + Bottom Page
 
-### Resume document
+### Rest
 
 * [ ] Write the resume document
 * [x] Crop BCN picture
 * [ ] Align Wave 1
+* [x] Correct the navbar menu and position
+* [ ] ReDesign the logos of MyEducation
+* [ ] Adjust Width of Cards

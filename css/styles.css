@@ -46,10 +46,6 @@ h3 {
     padding: 1rem 1rem;
 }
 
-.bottom-page {
-    text-align: center;
-    background-color: #394867;
-}
 /* Components */
 .boy {
     height: 400px;
@@ -129,7 +125,39 @@ h3 {
     padding-top: 1.75rem;
 }
 
+.fa-paper-plane {
+    margin: 2rem 0rem;
+    color: #394867;
+}
 
+.fa-file-alt {
+    margin: 2rem 0rem;
+    color: #394867;
+}
+
+.btn {
+    margin: 2rem 0rem;
+    background-color: #394867;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: white;
+    color: #394867;
+}
+
+.bottom-title {
+    margin: 0rem 0rem 2rem;
+    font-weight: 600;
+}
+
+.bottom-icon {
+    margin: 1rem;
+}
+
+.copyright {
+    margin: 2rem;
+}
 /* SECTIONS */
 
 #landing-page {
@@ -148,5 +176,16 @@ h3 {
 #skills {
     background-color: #394867;
     padding: 5rem 0rem;
+    color: white;
+}
+
+#contactme {
+    padding: 6rem;
+}
+
+#bottompage {
+    padding: 3rem;
+    text-align: center;
+    background-color: #394867;
     color: white;
 }

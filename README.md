@@ -29,14 +29,14 @@ All the sections to design on the figma schema ✏️
 
 * [x] Link Bootstrap
 * [x] Link Fonts
-* [ ] Add color Palette
+* [x] Add color Palette
 * [x] Landing Page
 * [x] Navigation Bar
 * [x] about Me
 * [x] My education section
 * [x] My Skills
-* [ ] Contact Me + Get My Resume
-* [ ] Social Media Links + Bottom Page
+* [x] Contact Me + Get My Resume
+* [x] Social Media Links + Bottom Page
 
 ### Rest
 

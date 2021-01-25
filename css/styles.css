@@ -24,8 +24,12 @@ h3 {
     padding: 3% 3%;
 }
 
+.sub-card {
+    padding-bottom: 2rem;
+}
+
 .my-education {
-    padding: 3rem 0rem;
+    padding: 2rem 0rem;
 }
 
 .cards {
@@ -35,12 +39,11 @@ h3 {
 .card {
     background-color:  #394867;
     border-radius: 10%;
-    width: 80%;
     margin: 1rem;
 }
 
 .card-body {
-    padding: 1rem 3rem;
+    padding: 1rem 1rem;
 }
 
 .bottom-page {
@@ -54,17 +57,22 @@ h3 {
 }
 
 .logo {
-    height: 30%;
-    width: 30%;
+    height: 40%;
+    width: 40%;
     padding: 2rem 0rem;
 }
 
 .icon {
-    color: #394867;
+    width: 19%;
+    margin: 1rem 0.75rem;
 }
 
 .icon-bottom {
     color: white;
+}
+
+.icons-row {
+    padding-left: 2.5rem;
 }
 
 .navbar {
@@ -130,5 +138,15 @@ h3 {
 
 #aboutme {
     background-color: #394867;
+    color: white;
+}
+
+#myeducation {
+    padding: 4rem;
+}
+
+#skills {
+    background-color: #394867;
+    padding: 5rem 0rem;
     color: white;
 }

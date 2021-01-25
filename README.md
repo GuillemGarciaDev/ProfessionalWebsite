@@ -32,9 +32,9 @@ All the sections to design on the figma schema ✏️
 * [ ] Add color Palette
 * [x] Landing Page
 * [x] Navigation Bar
-* [ ] about Me
-* [ ] My education section
-* [ ] My Skills
+* [x] about Me
+* [x] My education section
+* [x] My Skills
 * [ ] Contact Me + Get My Resume
 * [ ] Social Media Links + Bottom Page
 
@@ -44,5 +44,9 @@ All the sections to design on the figma schema ✏️
 * [x] Crop BCN picture
 * [ ] Align Wave 1
 * [x] Correct the navbar menu and position
-* [ ] ReDesign the logos of MyEducation
-* [ ] Adjust Width of Cards
+* [x] ReDesign the logos of MyEducation
+* [x] Adjust Width of Cards
+* [x] ReDesign Coding Language Logos
+* [x] ReDesign Ilustration mySkills
+
+### Responsive Design

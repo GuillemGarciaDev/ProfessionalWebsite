@@ -52,6 +52,11 @@ h3 {
     width: 400px;
 }
 
+.boy-2 {
+    width: 30%;
+    margin-bottom: 3rem;
+}
+
 .logo {
     height: 40%;
     width: 40%;
@@ -121,6 +126,12 @@ h3 {
     font-size: 1.25rem;
 }
 
+#coming-soon {
+    font-size: 4.5rem;
+    font-weight: 700;
+    color: #394867;
+}
+
 #bcn-img {
     padding-top: 1.75rem;
 }
@@ -188,4 +199,29 @@ h3 {
     text-align: center;
     background-color: #394867;
     color: white;
+}
+
+#work {
+    padding: 7rem;
+}
+
+#formulario {
+
+}
+
+/* Media Queries */
+
+@media (max-width: 990px) {
+
+    .card {
+        width: 40%;
+        margin-left: 12rem;
+    }
+}
+
+@media (max-width: 1226px) and (min-width: 991px) {
+    
+    .card {
+        width: 110%;
+    }
 }

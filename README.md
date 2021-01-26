@@ -50,3 +50,11 @@ All the sections to design on the figma schema ✏️
 * [x] ReDesign Ilustration mySkills
 
 ### Responsive Design
+
+* [x] Correct Cards Width
+* [x] Correct mySkills section
+
+### Contact-Me
+
+* [ ] Design ContactMe page
+* [ ] 

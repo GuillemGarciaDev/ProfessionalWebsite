@@ -18,7 +18,26 @@ h3 {
     color: white;
     padding: 0rem 1rem;
 }
+
+textarea {
+    resize: none;
+    border-radius: 3%;
+}
 /* Sections */
+
+.return {
+    margin-bottom: 2rem;
+}
+
+
+.form-box {
+    background-color: #394867;
+    color: white;
+    margin: 0rem 13rem;
+    padding: 3rem;
+    border-radius: 5%;
+    box-shadow: 10px 10px 5px #BBBFCA;
+}
 
 .edu-card {
     padding: 3% 3%;
@@ -40,6 +59,7 @@ h3 {
     background-color:  #394867;
     border-radius: 10%;
     margin: 1rem;
+    box-shadow: 10px 10px 5px #BBBFCA;
 }
 
 .card-body {
@@ -147,7 +167,7 @@ h3 {
 }
 
 .btn {
-    margin: 2rem 0rem;
+    margin-top: 2rem;
     background-color: #394867;
     color: white;
 }
@@ -168,6 +188,16 @@ h3 {
 
 .copyright {
     margin: 2rem;
+}
+
+#contact-title {
+    font-size: 3.5rem;
+    font-weight: 600;
+    color: #394867;
+}
+
+.s1 {
+    padding: 3rem;
 }
 /* SECTIONS */
 
@@ -205,10 +235,6 @@ h3 {
     padding: 7rem;
 }
 
-#formulario {
-
-}
-
 /* Media Queries */
 
 @media (max-width: 990px) {
@@ -217,11 +243,21 @@ h3 {
         width: 40%;
         margin-left: 12rem;
     }
+
+    .form-box {
+        margin: 0rem 3rem;
+        padding: 3rem;
+    }
 }
 
 @media (max-width: 1226px) and (min-width: 991px) {
     
     .card {
         width: 110%;
+    }
+
+    .form-box {
+        margin: 0rem 10rem;
+        padding: 3rem;
     }
 }

@@ -56,5 +56,12 @@ All the sections to design on the figma schema ✏️
 
 ### Contact-Me
 
-* [ ] Design ContactMe page
-* [ ] 
+* [x] Design ContactMe page
+* [x] Apply all the styles
+* [x] Make it responsive
+
+### JavaScript
+
+* [ ] Make the form functional
+* [ ] Make the resume functional
+* [ ] Make some animations

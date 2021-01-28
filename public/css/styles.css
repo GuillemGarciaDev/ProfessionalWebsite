@@ -90,6 +90,7 @@ textarea {
 
 .icon {
     width: 19%;
+    height: 19%;
     margin: 1rem 0.75rem;
 }
 
@@ -261,6 +262,7 @@ textarea {
 
     .icon {
         width: 15%;
+        height: 15%;
     }
 
     .icons-row {

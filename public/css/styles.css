@@ -63,6 +63,10 @@ textarea {
     box-shadow: 10px 10px 5px #BBBFCA;
 }
 
+.card:hover {
+    box-shadow: 0px 0px 30px #FE53BB;
+}
+
 .card-body {
     padding: 1rem 1rem;
 }
@@ -87,6 +91,10 @@ textarea {
 .icon {
     width: 19%;
     margin: 1rem 0.75rem;
+}
+
+.icon:hover {
+    box-shadow: 0px 0px 30px #FE53BB;
 }
 
 .icon-bottom {
@@ -226,6 +234,7 @@ textarea {
 }
 
 #bottompage {
+    margin-top: 3rem;
     padding: 3rem;
     text-align: center;
     background-color: #394867;
@@ -249,6 +258,19 @@ textarea {
         margin: 0rem 3rem;
         padding: 3rem;
     }
+
+    .icon {
+        width: 15%;
+    }
+
+    .icons-row {
+        padding-left: 8rem;
+    }
+
+    .skills-title {
+        padding-top: 3rem;
+    }
+
 }
 
 @media (max-width: 1226px) and (min-width: 991px) {
@@ -257,6 +279,10 @@ textarea {
         width: 110%;
     }
 
+    .skills-title {
+        padding-top: 3rem;
+    }
+    
     .form-box {
         margin: 0rem 10rem;
         padding: 3rem;

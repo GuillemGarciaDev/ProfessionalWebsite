@@ -62,4 +62,5 @@ All the sections to design on the figma schema ✏️
 
 ### JavaScript
 
-* [ ] Make some animations
+* [x] Make some animations
+* [ ] Make form functional

@@ -24,8 +24,6 @@ document.querySelector('form').addEventListener('submit', submitForm);
 
 function submitForm(e) {
     e.preventDefault();
-    // console.log('Working');
-
     var name = getValue('name');
     var email = getValue('email');
     var message = getValue('message');

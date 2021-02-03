@@ -40,7 +40,6 @@ All the sections to design on the figma schema ✏️
 
 ### Rest
 
-* [ ] Write the resume document
 * [x] Crop BCN picture
 * [ ] Align Wave 1
 * [x] Correct the navbar menu and position

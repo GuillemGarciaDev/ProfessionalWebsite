@@ -209,6 +209,11 @@ textarea {
 .s1 {
     padding: 3rem;
 }
+
+.hide-form {
+    visibility: hidden;
+    display: none;
+}
 /* SECTIONS */
 
 #landing-page {
